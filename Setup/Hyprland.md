@@ -4,10 +4,8 @@
 
 1️⃣ System Setup & Configuration
 
-✅ [ ] Create Hyprland.md with task-based notes instead of documenting everything.
-✅ [ ] Finalize hyprland.conf with essential settings instead of documenting all options.
-✅ [ ] Manage dotfiles separately in a dedicated Git repository.
-✅ [ ] Practice pushing changes in obsidian.nvim notes to GitHub.
+✅ [ ] Create a Central Configuration Directory for centralizing my UI configs.
+✅ [ ] Create a corresponding Git repository so that my dotfiles can not only be managed, but also imported when installing elsewhere.
 
 2️⃣ Hyprland Core Configuration
 
@@ -43,3 +41,23 @@
 ✅ [ ] Enable window swallowing (hyprswallow) for terminal workflow improvements.
 ✅ [ ] Configure floating rules for specific applications (pavucontrol, calculator).
 ✅ [ ] Assign workspace rules to specific applications (firefox, discord).
+
+## Waybar Tasks
+
+✅ [ ] Look into waybar interactivity.
+✅ [ ] Add a pulseaudio or wireplumber module in the JSON config.
+✅ [ ] Add a style for the new volume module.
+
+## Rofi Tasks
+
+
+
+## Dunst Tasks
+
+
+
+## Swaylock Tasks
+
+
+
+## Wallpaper Tasks
