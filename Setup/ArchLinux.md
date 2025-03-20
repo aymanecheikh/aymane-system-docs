@@ -65,6 +65,8 @@ firefox                     | Main Browser
 
 git                         | Version control
 lazygit                     | GUI for git
+openssh                     | Enables SSH authentication
+github-cli                  | Enables GitHub cli management
 neovim                      | Code editor
 tmux                        | Terminal multiplexing
 kitty                       | Fast terminal
