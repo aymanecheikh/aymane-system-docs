@@ -8,7 +8,7 @@ tags: []
 
 ## Package Install Command
 
-pacman -S base base-devel linux linux-firmware linux-headers sudo networkmanager hyprland waybar rofi dunst swaylock-effects swww xdg-desktop-portal-hyprland git lazygit neovim tmux kitty zsh starship brightnessctl usbutils htop jq wget xdg-utils xdg-desktop-portal-gtk pipewire-alsa pipewire-pulse sof-firmware alsa-utils papirus-icon-theme qt5ct qt6ct nwg-look firefox yay-bin
+pacman -S base base-devel linux linux-firmware linux-headers sudo networkmanager hyprland waybar rofi dunst swaylock-effects swww xdg-desktop-portal-hyprland git lazygit neovim tmux kitty zsh starship brightnessctl usbutils htop jq wget xdg-utils xdg-desktop-portal-gtk pipewire-alsa pipewire-pulse sof-firmware alsa-utils papirus-icon-theme qt5ct qt6ct nwg-look firefox yay-bin openssh github-cli
 
 
 ## Core System Packages
